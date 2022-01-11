@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+
+title: monoposer
+
+description: ci/cd workflow tools based on monorepo

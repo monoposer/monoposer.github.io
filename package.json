@@ -1,0 +1,24 @@
+{
+  "name": "monoposer.github.io",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/monoposer/monoposer.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "index.js",
+  "scripts": {
+    "dev:docs": "vuepress dev docs",
+    "build:docs": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monoposer/monoposer.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monoposer/monoposer.github.io/issues"
+  },
+  "homepage": "https://github.com/monoposer/monoposer.github.io#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.32"
+  }
+}
